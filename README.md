@@ -1,2 +1,2 @@
-# neural_networks
+# Neural Networks
 Projetos de Redes Neurais
